@@ -4,7 +4,7 @@ Applicazione d'esempio **monolitica** con [Apache Kafka](https://kafka.apache.or
 
 ## Database
 
-Configurato database PostgreSQL: bisogna creare prima il database con nome jhmkapp e modificare `application-dev.yml` e `pom.xml` di conseguenza
+Configurato database [PostgreSQL](https://www.postgresql.org/): bisogna creare prima il database con nome **jhmkapp** e modificare `application-dev.yml` e `pom.xml` di conseguenza
 
 This application was generated using JHipster 7.6.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.6.0](https://www.jhipster.tech/documentation-archive/v7.6.0).
 
